@@ -8,8 +8,13 @@
 ![Manual Review](https://img.shields.io/badge/Manual%20Review-200%20Outputs-orange)
 ![Cross Lingual](https://img.shields.io/badge/Cross--Lingual-EN%20%7C%20IT-blueviolet)
 ![Benchmark](https://img.shields.io/badge/Benchmark-Factuality-success)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-red)](https://cross-lingual-factuality-drift-7t8f8rcjwulous7ldrrcfb.streamlit.app/)
 
 ![Confirmed Drift by Language](visuals/confirmed_drift_by_language.png)
+
+### Interactive Dashboard
+
+🔗 **[Open Streamlit Dashboard](https://cross-lingual-factuality-drift-7t8f8rcjwulous7ldrrcfb.streamlit.app/)**
 
 
 Benchmark evaluating cross-lingual factual consistency across English and Italian prompts in local language models.
