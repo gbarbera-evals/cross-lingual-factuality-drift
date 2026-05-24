@@ -70,12 +70,6 @@ Prompt generation
 | llama3.2 | Ollama |
 | mistral | Ollama |
 
-## Dashboard
-
-Interactive Streamlit dashboard for benchmark exploration.
-
-![Dashboard](visuals/dashboard.png)
-
 ## Key Findings
 
 - Both evaluated local models showed substantially elevated confirmed factual drift rates in Italian compared to English.
