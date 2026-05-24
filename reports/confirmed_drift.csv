@@ -1,0 +1,3 @@
+provider,confirmed_cases
+ollama:llama3.2,50
+ollama:mistral,35

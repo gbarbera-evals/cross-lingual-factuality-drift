@@ -1,0 +1,5 @@
+provider,lang,avg_ratio
+ollama:llama3.2,it,0.88
+ollama:mistral,en,0.815
+ollama:mistral,it,0.815
+ollama:llama3.2,en,0.88

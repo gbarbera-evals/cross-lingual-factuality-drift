@@ -1,0 +1,5 @@
+provider,lang,compression_cases,compression_rate
+ollama:llama3.2,en,3.0,6.0
+ollama:llama3.2,it,0.0,0.0
+ollama:mistral,en,4.0,8.0
+ollama:mistral,it,10.0,20.0

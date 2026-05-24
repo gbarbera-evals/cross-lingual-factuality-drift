@@ -1,0 +1,24 @@
+description: Cross-Lingual Factuality Drift Benchmark
+
+providers:
+  - id: ollama:llama3.2
+    config:
+      num_predict: 300
+
+  - id: ollama:mistral
+    config:
+      num_predict: 300
+
+prompts:
+  - |
+    Answer the following question in 4-6 concise sentences.
+    Do not use bullet points or numbered lists.
+    Focus on the most important factual points.
+
+    Question: {{prompt}}
+
+tests: file://factuality_prompts.csv
+
+defaultTest:
+  options:
+    temperature: 0.2

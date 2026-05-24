@@ -1,0 +1,7 @@
+provider,drift_type,cases
+ollama:llama3.2,no_drift,50
+ollama:llama3.2,hallucination/addition,48
+ollama:llama3.2,hallucination/addition ,1
+ollama:llama3.2,compression_drift,1
+ollama:mistral,no_drift,65
+ollama:mistral,hallucination/addition,35

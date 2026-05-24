@@ -1,0 +1,2 @@
+case_id,pair_id,topic,language,model,prompt,expected_facts,response,factuality_label,drift_label,drift_type,severity,notes
+case_001,pair_001,science,en,test_model,What is photosynthesis?,"""Plants use sunlight, carbon dioxide, and water to produce glucose and oxygen.""","""Photosynthesis is the process by which plants use sunlight, carbon dioxide, and water to create glucose and oxygen.",correct,no_drift,no_drift,low,test row

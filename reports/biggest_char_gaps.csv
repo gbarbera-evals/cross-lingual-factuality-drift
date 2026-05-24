@@ -1,0 +1,11 @@
+prompt_id,provider,char_gap
+GEO_005 ,ollama:mistral,507
+GEO_006,ollama:llama3.2,390
+BIO_005,ollama:llama3.2,374
+GEO_006,ollama:mistral,369
+SCIE_004,ollama:mistral,306
+BIO_004 ,ollama:mistral,303
+ENV_004,ollama:mistral,292
+HIST_007,ollama:mistral,284
+ENV_001,ollama:mistral,278
+HIST_004,ollama:mistral,273

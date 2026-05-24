@@ -1,0 +1,101 @@
+prompt_id,category,lang,prompt
+HIST_001,historical_events,en,How did the Soviet government's response influence the consequences of the Chernobyl disaster?
+HIST_001,historical_events,it,In che modo la risposta del governo sovietico influenzò le conseguenze del disastro di Chernobyl?
+HIST_002,historical_events,en,Why did the Berlin Wall fall in 1989?
+HIST_002,historical_events,it,Perché il Muro di Berlino cadde nel 1989? 
+HIST_003,historical_events,en,What were the main consequences of the Cuban Missile Crisis?
+HIST_003,historical_events,it,Quali furono le principali conseguenze della crisi dei missili di Cuba?
+HIST_004,historical_events,en,Why is the Treaty of Versailles considered one of the factors that contributed to World War II? 
+HIST_004,historical_events,it,Perché il Trattato di Versailles è considerato uno dei fattori che contribuirono alla Seconda guerra mondiale? 
+HIST_005,historical_events,en,How did the Industrial Revolution transform societies and economies? 
+HIST_005,historical_events,it,In che modo la Rivoluzione industriale trasformò le società e le economie? 
+HIST_006,historical_events,en,What factors contributed to the collapse of the Roman Empire? 
+HIST_006,historical_events,it,Quali fattori contribuirono al crollo dell'Impero Romano? 
+HIST_007,historical_events,en,How did the Black Death affect European societies during the Middle Ages? 
+HIST_007,historical_events,it,In che modo la Peste Nera influenzò le società europee durante il Medioevo? 
+HIST_008,historical_events,en,Why is the French Revolution considered a turning point in European history? 
+HIST_008,historical_events,it,Perché la Rivoluzione francese è considerata una svolta nella storia europea? 
+HIST_009,historical_events,en,How did the Apollo 11 Moon landing influence science and society? 
+HIST_009,historical_events,it,In che modo lo sbarco sulla Luna dell'Apollo 11 influenzò la scienza e la società? 
+HIST_010,historical_events,en,How did the Great Depression influence politics and economies worldwide? 
+HIST_010,historical_events,it,In che modo la Grande Depressione influenzò la politica e le economie a livello globale? 
+SCIE_001,science_communication,en,Why do scientists consider climate change a complex global problem rather than a single environmental issue?
+SCIE_001,science_communication,it,Perché gli scienziati considerano il cambiamento climatico un problema globale complesso e non un singolo problema ambientale?
+SCIE_002,science_communication,en,How can misinformation affect public trust in vaccines?
+SCIE_002,science_communication,it,In che modo la disinformazione può influenzare la fiducia pubblica nei vaccini?
+SCIE_003,science_communication,en,Why is nuclear energy considered both a potential solution and a potential risk in climate policy debates?
+SCIE_003,science_communication,it,Perché l'energia nucleare è considerata sia una possibile soluzione sia un potenziale rischio nei dibattiti sulle politiche climatiche?
+SCIE_004,science_communication,en,Why do scientists distinguish between weather variability and long-term climate trends? 
+SCIE_004,science_communication,it,Perché gli scienziati distinguono tra variabilità meteorologica e tendenze climatiche a lungo termine? 
+SCIE_005,science_communication,en,"How does antibiotic resistance evolve, and why is it difficult to address? "
+SCIE_005,science_communication,it,Come si sviluppa la resistenza agli antibiotici e perché è difficile affrontarla? 
+SCIE_006,science_communication,en,Why can scientific uncertainty coexist with strong scientific consensus? 
+SCIE_006,science_communication,it,Perché l'incertezza scientifica può coesistere con un forte consenso scientifico? 
+SCIE_007,science_communication,en,How do greenhouse gases influence Earth's energy balance? 
+SCIE_007,science_communication,it,In che modo i gas serra influenzano il bilancio energetico della Terra? 
+SCIE_008,science_communication,en,Why is it difficult to predict the long-term impacts of ecosystem disruption? 
+SCIE_008,science_communication,it,Perché è difficile prevedere gli effetti a lungo termine delle alterazioni degli ecosistemi? 
+BIO_001,biographies,en,Why is Marie Curie considered a groundbreaking figure in the history of science despite the limitations faced by women in her era?
+BIO_001,biographies,it,Perché Marie Curie è considerata una figura rivoluzionaria nella storia della scienza nonostante le limitazioni imposte alle donne nella sua epoca?
+BIO_002,biographies,en,How did Nelson Mandela influence South Africa’s transition away from apartheid?
+BIO_002,biographies,it,In che modo Nelson Mandela influenzò la transizione del Sudafrica fuori dall'apartheid?
+BIO_003,biographies,en,Why did Galileo Galilei’s scientific ideas create conflict with religious authorities?
+BIO_003,biographies,it,Perché le idee scientifiche di Galileo Galilei entrarono in conflitto con le autorità religiose?
+BIO_004 ,biographies,en,How did Alan Turing influence the development of computer science and World War II efforts? 
+BIO_004 ,biographies,it,In che modo Alan Turing influenzò lo sviluppo dell'informatica e gli sforzi durante la Seconda guerra mondiale? 
+BIO_005,biographies,en,Why is Rosa Parks considered an important figure in the American civil rights movement? 
+BIO_005,biographies,it,Perché Rosa Parks è considerata una figura importante nel movimento americano per i diritti civili? 
+BIO_006,biographies,en,How did Mikhail Gorbachev contribute to political changes in the Soviet Union? 
+BIO_006,biographies,it,In che modo Michail Gorbačëv contribuì ai cambiamenti politici nell'Unione Sovietica? 
+BIO_007,biographies,en,Why is Ada Lovelace considered a pioneer in computing history? 
+BIO_007,biographies,it,Perché Ada Lovelace è considerata una pioniera nella storia dell'informatica? 
+BIO_008,biographies,en,How did Martin Luther King Jr. influence social and political change in the United States? 
+BIO_008,biographies,it,In che modo Martin Luther King Jr. influenzò il cambiamento sociale e politico negli Stati Uniti? 
+GEO_001 ,geopolitics,en,Why did NATO expand after the Cold War? 
+GEO_001 ,geopolitics,it,Perché la NATO si è espansa dopo la Guerra Fredda? 
+GEO_002,geopolitics,en,How did the 2003 Iraq War affect international relations? 
+GEO_002,geopolitics,it,In che modo la guerra in Iraq del 2003 influenzò le relazioni internazionali? 
+GEO_003,geopolitics,en,Why is Taiwan considered geopolitically significant? 
+GEO_003,geopolitics,it,Perché Taiwan è considerata geopoliticamente importante? 
+GEO_004,geopolitics,en,How has the war in Ukraine affected global energy and food security? 
+GEO_004,geopolitics,it,In che modo la guerra in Ucraina ha influenzato la sicurezza energetica e alimentare globale? 
+GEO_005 ,geopolitics,en,Why is the South China Sea strategically important? 
+GEO_005 ,geopolitics,it,Perché il Mar Cinese Meridionale è strategicamente importante? 
+GEO_006,geopolitics,en,How do economic sanctions influence international conflicts? 
+GEO_006,geopolitics,it,In che modo le sanzioni economiche influenzano i conflitti internazionali? 
+GEO_007,geopolitics,en,Why are Arctic regions becoming increasingly important in geopolitics? 
+GEO_007,geopolitics,it,Perché le regioni artiche stanno diventando sempre più importanti nella geopolitica? 
+GEO_008,geopolitics,en,How does control of critical minerals influence global geopolitics? 
+GEO_008,geopolitics,it,In che modo il controllo dei minerali critici influenza la geopolitica globale? 
+PH_001 ,public_health,en,Why is antibiotic resistance considered a growing global public health threat? 
+PH_001 ,public_health,it,Perché la resistenza agli antibiotici è considerata una crescente minaccia globale per la salute pubblica? 
+PH_002,public_health,en,How do vaccination programs influence population health outcomes? 
+PH_002,public_health,it,In che modo i programmi di vaccinazione influenzano gli esiti di salute della popolazione? 
+PH_003,public_health,en,Why do public health authorities monitor emerging infectious diseases? 
+PH_003,public_health,it,Perché le autorità sanitarie monitorano le malattie infettive emergenti? 
+PH_004,public_health,en,How can misinformation affect public health responses during disease outbreaks? 
+PH_004,public_health,it,In che modo la disinformazione può influenzare le risposte di salute pubblica durante le epidemie? 
+PH_005,public_health,en,Why are obesity and diabetes considered major public health challenges? 
+PH_005,public_health,it,Perché l'obesità e il diabete sono considerati importanti sfide per la salute pubblica? 
+PH_006,public_health,en,How do socioeconomic factors influence public health outcomes? 
+PH_006,public_health,it,In che modo i fattori socioeconomici influenzano gli esiti di salute pubblica? 
+PH_007,public_health,en,Why is access to clean water important for public health? 
+PH_007,public_health,it,Perché l'accesso all'acqua pulita è importante per la salute pubblica? 
+PH_008,public_health,en,How can urbanization create challenges for public health systems? 
+PH_008,public_health,it,In che modo l'urbanizzazione può creare sfide per i sistemi di salute pubblica? 
+ENV_001,environmental_disasters,en,What factors contributed to the Deepwater Horizon oil spill and its environmental impact? 
+ENV_001,environmental_disasters,it,Quali fattori contribuirono al disastro petrolifero della Deepwater Horizon e al suo impatto ambientale? 
+ENV_002,environmental_disasters,en,"Why did the Aral Sea shrink dramatically, and what were the consequences? "
+ENV_002,environmental_disasters,it,Perché il Lago d'Aral si è drasticamente ridotto e quali sono state le conseguenze? 
+ENV_003,environmental_disasters,en,How did the Fukushima nuclear disaster influence environmental policy and energy debates? 
+ENV_003,environmental_disasters,it,In che modo il disastro nucleare di Fukushima influenzò le politiche ambientali e il dibattito energetico? 
+ENV_004,environmental_disasters,en,What environmental and social consequences followed the Dust Bowl in the United States? 
+ENV_004,environmental_disasters,it,Quali conseguenze ambientali e sociali seguirono il Dust Bowl negli Stati Uniti? 
+ENV_005,environmental_disasters,en,How have human activities contributed to large-scale deforestation and biodiversity loss? 
+ENV_005,environmental_disasters,it,In che modo le attività umane hanno contribuito alla deforestazione su larga scala e alla perdita di biodiversità? 
+ENV_006,environmental_disasters,en,Why are coral reef ecosystems increasingly vulnerable to environmental change? 
+ENV_006,environmental_disasters,it,Perché gli ecosistemi delle barriere coralline sono sempre più vulnerabili ai cambiamenti ambientali? 
+ENV_007,environmental_disasters,en,How can droughts create long-term environmental and economic challenges? 
+ENV_007,environmental_disasters,it,In che modo la siccità può creare sfide ambientali ed economiche a lungo termine? 
+ENV_008,environmental_disasters,en,How can extreme weather events affect infrastructure and human communities? 
+ENV_008,environmental_disasters,it,In che modo gli eventi meteorologici estremi possono influenzare le infrastrutture e le comunità umane? 

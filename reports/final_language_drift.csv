@@ -1,0 +1,5 @@
+provider,lang,outputs,confirmed_drift,drift_rate
+ollama:llama3.2,en,50,14.0,28.0
+ollama:llama3.2,it,50,36.0,72.0
+ollama:mistral,en,50,9.0,18.0
+ollama:mistral,it,50,26.0,52.0

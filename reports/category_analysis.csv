@@ -1,0 +1,13 @@
+category,provider,drift_cases,drift_rate
+biographies,ollama:llama3.2,4.0,25.0
+biographies,ollama:mistral,6.0,37.5
+environmental_disasters,ollama:llama3.2,1.0,6.25
+environmental_disasters,ollama:mistral,5.0,31.25
+geopolitics,ollama:llama3.2,1.0,6.25
+geopolitics,ollama:mistral,4.0,25.0
+historical_events,ollama:llama3.2,0.0,0.0
+historical_events,ollama:mistral,4.0,20.0
+public_health,ollama:llama3.2,0.0,0.0
+public_health,ollama:mistral,2.0,12.5
+science_communication,ollama:llama3.2,0.0,0.0
+science_communication,ollama:mistral,4.0,25.0
